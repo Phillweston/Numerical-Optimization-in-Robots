@@ -2,8 +2,8 @@
  * @Author: Phillweston 2436559745@qq.com
  * @Date: 2022-10-29 16:36:03
  * @LastEditors: Phillweston
- * @LastEditTime: 2022-10-31 17:40:21
- * @FilePath: \Numerical-Optimization-in-Robots\Line-search_Steepest_Gradient_Descent_with_Armijo_Condition.cpp
+ * @LastEditTime: 2022-11-03 15:09:32
+ * @FilePath: \Numerical-Optimization-in-Robots\hw_1\Line-search_Steepest_Gradient_Descent_with_Armijo_Condition.cpp
  * @Description: 
  * 
  */

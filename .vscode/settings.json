@@ -5,5 +5,8 @@
         "dense": "cpp"
     },
     "editor.suggest.snippetsPreventQuickSuggestions": false,
-    "aiXcoder.showTrayIcon": true
+    "aiXcoder.showTrayIcon": true,
+    "editor.tabCompletion": "on",
+    "diffEditor.codeLens": true,
+    "cmake.sourceDirectory": "${workspaceFolder}/hw_2"
 }
